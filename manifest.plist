@@ -11,34 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://liujinguang.coding.net/p/ios20200114/d/ios20200114/git/raw/master/Tips.ipa</string>
+					<string>https://github.com/uuzd/iapdownload/blob/master/AGRiculTure.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://liujinguang.coding.net/p/ios20200114/d/ios20200114/git/raw/master/tips_small.png</string>
+					<string>https://github.com/uuzd/iapdownload/blob/master/image57x57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://liujinguang.coding.net/p/ios20200114/d/ios20200114/git/raw/master/tips.png</string>
+					<string>https://github.com/uuzd/iapdownload/blob/master/image512x512png.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gxt.tips</string>
+				<string>com.advanceApp2.opt</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Tips</string>
+				<string>Phone Cleaner</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
-
